@@ -1,6 +1,3 @@
-# journal
-This is my first project/
-
 <!DOCTYPE html>
 <html lang="ru">
 <head>
